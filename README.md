@@ -6,9 +6,9 @@ utilizados para resolver las problematicas
 
 + Tema 2 _Métodos de solucion de ecuaciones_
   - [Método de Biseccion](Tema_2/Metodo_de_Biseccion)
-  - [Método de Newton Raphson](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20Newton%20Raphson)
-  - [Método de la regla falsa](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20regla%20falsa)
-  - [Método de la secante](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20secante)
+  - [Método de Newton Raphson](Tema_2/Método_de_Newton_Raphson/)
+  - [Método de la regla falsa](Tema_2/Método_de_la_regla_falsa/)
+  - [Método de la secante](Tema_2/Método_de_la_secante/)
 
 + Tema 3 _Métodos de solucion de sistemas de ecuaciones_
   - [Método de Gauss Jordan](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Gauss-Jordan/Código%20en%20Java)
