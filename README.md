@@ -20,3 +20,7 @@ utilizados para resolver las problematicas
   - [Regla del trapcio](Tema_4/Regla_del_trapecio/)
   - [Método de Simpson 1/3](Tema_4/Método_de_Simpson_Un_tercio/)
   - [Método de Simpson 3/8](Tema_4/Método_de_Simpson_3_Octavos/)
+
++ Tema 5 _Interpolacion y ajuste de funciones_
+  - [Interpolacion lineal](Tema_5/Interpolacion_lineal/)
+  - [Interpolacion cuadratica](Tema_5/Interpolacion_cuadratica/)
