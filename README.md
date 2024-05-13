@@ -17,6 +17,6 @@ utilizados para resolver las problematicas
   - [Método de Gauss-Seidel](Tema_3/Metodo_de_Gauss-Seidel/)
 
 + Tema 4 _Diferenciación e Integración numérica_
-  - [Regla del trapcio](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema_4/Regla_del_trapecio)
-  - [Método de Simpson 1/3](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema_4/Método_de_Simpson_Un_tercio#readme)
-  - [Método de Simpson 3/8](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema_4/Método_de_Simpson_3_Octavos#readme)
+  - [Regla del trapcio](Tema_4/Regla_del_trapecio/)
+  - [Método de Simpson 1/3](Tema_4/Método_de_Simpson_Un_tercio/)
+  - [Método de Simpson 3/8](Tema_4/Método_de_Simpson_3_Octavos/)
