@@ -3,12 +3,19 @@
 La interpolacion es un metodo numerico, el cual tiene como objetivo encontrar un nuevo punto apartir de dos puntos conocidos.
 El nuevo valor se obtiene haciendo sumas/restas entre los valores anteriores y posteriores del nuevo punto que se quiere conocer.
 Evidentemente es un metodo el cual tiene su grado de error y puede tener un margen de error considerable al resultado final.
-La interpolacion lineal, se caracateriza principalmente por usar una linea recta entre los dos puntos, para encontrar de ese modo el nuevo valor.
+La interpolacion lineal, se caracateriza principalmente por usar una linea recta entre los dos puntos, para adivinar el valor en el nuevo punto.
 
 De esta forma puede resultar en un error considerable al resultado, esto porque al ser una linea recta deja campo libre donde no esta siendo ocupado y que esta siendo ignorado para la operacion.
 
 ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/d8c469f3-4126-486a-b06a-100185a82df2)
-En esta imagen se puede apreciar el campo que se pierde al usar una linea recta entre los dos puntos. Puede verse similar a otros metodos.
+
+En esta imagen se puede apreciar el campo que se pierde al usar una linea recta entre los dos puntos. Puede verse similar a otros metodos. La parabola formada es la comparacion con otros metodos con el modo lineal.
+
+**Para calcular la interpolacion Lineal**
+
+![image](https://github.com/CristianCHsx/Metodos_Numericos/assets/162630564/26573f1e-89b2-483b-af14-2614c7091b6c)
+
+Resulta ser un metodo facil de aplicar y más aun si se conoce de buena manera la teoria de la interpolacion, ya que no resullta complicado de resolver gracias a la formula con la que se trabaja.
 
 # Algoritmo
 
