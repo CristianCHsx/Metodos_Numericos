@@ -20,22 +20,23 @@ Si se llegase a obtener una matriz identidad, el sistema es compatible determina
 ## Codigo en Java
 
 ```java
+
 package eliminaciongaussiana;
 
+
 import java.util.Arrays;
+
 
 public class EliminacionGaussiana {
 
     public static void main(String[] args) {
         
          // PASO 1: Definir nuestra matriz o nuestro vector
-        double[][] A = new {{1,2,1},
-                        {1,0,1},
-                        {0,1,2}};
+        double[][] A = {{7,-3},
+                        {1,-6}};
         
-        double[][] B = new {{0},
-                        {2},
-                        {1}};
+        double[][] B = {{9},
+                        {27}};
         
         // Copiamos las matrices originales y las hacemos de tipo flotante
         double[][] A_copy = new double[A.length][A[0].length];
