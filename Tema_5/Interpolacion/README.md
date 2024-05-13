@@ -17,7 +17,7 @@ En esta imagen se puede apreciar el campo que se pierde al usar una linea recta 
 
 Se necesitan los valores de y0, y1,x1,x0. En muchos otros casos y0 es lo mismo a f(x0) no importa la forma en la que se indique es cuestion de preferencias. Estos valores son lo que tenemos como conocidos dentro del conjunto de datos, siendo x0 el valor anterior a x y x1 el valor posterior de valor de x. Por otro lado el valor de y0 es el valor anterior que se quiere encontrar y y1 el valor posterior al que se quiere encontrar.
 
-
+Esta formula es facil de aplicar, ya que solo se necesitan conocer los valores de alrededor y no necesita algo mas poderoso.
 
 Resulta ser un metodo facil de aplicar y más aun si se conoce de buena manera la teoria de la interpolacion, ya que no resullta complicado de resolver gracias a la formula con la que se trabaja.
 
