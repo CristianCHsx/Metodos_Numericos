@@ -29,11 +29,11 @@ public class EliminacionGaussiana {
     public static void main(String[] args) {
         
          // PASO 1: Definir nuestra matriz o nuestro vector
-        double[][] A = {{1,2,1},
+        double[][] A = new {{1,2,1},
                         {1,0,1},
                         {0,1,2}};
         
-        double[][] B = {{0},
+        double[][] B = new {{0},
                         {2},
                         {1}};
         
