@@ -11,10 +11,10 @@ utilizados para resolver las problematicas
   - [Método de la secante](Tema_2/Método_de_la_secante/)
 
 + Tema 3 _Métodos de solucion de sistemas de ecuaciones_
-  - [Método de Gauss Jordan](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Gauss-Jordan/Código%20en%20Java)
-  - [Método de Eliminacion Gaussiana](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana)
-  - [Método de Jacobi](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Jacobi)
-  - [Método de Gauss-Seidel](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Metodo%20de%20Gauss-Seidel)
+  - [Método de Gauss Jordan](Tema_3/Método_de_Gauss-Jordan/)
+  - [Método de Eliminacion Gaussiana](Tema_3/Método_de_Eliminacion_Gaussiana/)
+  - [Método de Jacobi](Tema_3/Método_de_Jacobi/)
+  - [Método de Gauss-Seidel](Tema_3/Metodo_de_Gauss-Seidel/)
 
 + Tema 4 _Diferenciación e Integración numérica_
   - [Regla del trapcio](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema_4/Regla_del_trapecio)
