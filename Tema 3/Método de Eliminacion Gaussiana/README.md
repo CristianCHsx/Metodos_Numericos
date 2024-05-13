@@ -37,8 +37,10 @@ public class EliminacionGaussiana {
                 {1,-6}
             };
         
-        double[][] B = {{9},
-                        {27}};
+        double[][] B = {
+                {9},
+                {27}
+            };
         
         // Copiamos las matrices originales y las hacemos de tipo flotante
         double[][] A_copy = new double[A.length][A[0].length];
