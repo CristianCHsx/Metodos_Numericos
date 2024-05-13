@@ -23,7 +23,21 @@ Resulta ser un metodo facil de aplicar y más aun si se conoce de buena manera l
 
 # Algoritmo
 
+1.-Inicio
 
+2.-Se sacan los coeficientes de "l" , sustituyendo las cordenas  con la formula.
+
+3.-Se desarrolla las operaciones de cada expresion
+
+4.-Estos resutados en forma de trinomios o binomios, se utilizan en la exprecion de pn(x)
+
+5.-Se desarrolla la ecuacion
+
+6.-Se simplifican los terminos similares
+
+7.-Se encuentra el resultado.
+
+8.-Final
 
 
 # Codigo en Java
