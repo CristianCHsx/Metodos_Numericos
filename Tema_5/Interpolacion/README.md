@@ -80,6 +80,7 @@ public class interlineal{
 
 ## Ejemplo 1:
 -  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/706dd050-b240-44d8-b7fa-4d4bb1f58473)
+    
     En esta tabla tenemos los datos de horas del dia _(X)_ y respecto a la hora del dia tenemos su temperatura que se tiene en esa hora _((f(x))_. Se quiere conocer que temperatura haria a las 9 a.m. Por lo tanto con ayuda de los puntos conocidos se va a tratar de encontrar la temperatura.
 
 ## Ejemplo 2:
