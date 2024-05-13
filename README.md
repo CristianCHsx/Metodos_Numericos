@@ -5,7 +5,7 @@ Aqui se encontrará organizado por temas que se ven cada cierto periodo, a dentr
 utilizados para resolver las problematicas
 
 + Tema 2 _Métodos de solucion de ecuaciones_
-  - [Método de Biseccion](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Metodo%20de%20Biseccion)
+  - [Método de Biseccion](Tema_2/Metodo_de_Biseccion)
   - [Método de Newton Raphson](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20Newton%20Raphson)
   - [Método de la regla falsa](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20regla%20falsa)
   - [Método de la secante](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20secante)
