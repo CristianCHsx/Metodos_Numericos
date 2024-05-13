@@ -32,8 +32,10 @@ public class EliminacionGaussiana {
     public static void main(String[] args) {
         
          // PASO 1: Definir nuestra matriz o nuestro vector
-        double[][] A = {{7,-3},
-                        {1,-6}};
+        double[][] A = {
+                {7,-3},
+                {1,-6}
+            };
         
         double[][] B = {{9},
                         {27}};
