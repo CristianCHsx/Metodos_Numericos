@@ -3,7 +3,12 @@
 La interpolacion es un metodo numerico, el cual tiene como objetivo encontrar un nuevo punto apartir de dos puntos conocidos.
 El nuevo valor se obtiene haciendo sumas/restas entre los valores anteriores y posteriores del nuevo punto que se quiere conocer.
 Evidentemente es un metodo el cual tiene su grado de error y puede tener un margen de error considerable al resultado final.
-Se caracateriza principalmente por usar una linea recta entre dos puntos, esto es la explicacion por la cual puede tener un error considerable-
+La interpolacion lineal, se caracateriza principalmente por usar una linea recta entre los dos puntos, para encontrar de ese modo el nuevo valor.
+
+De esta forma puede resultar en un error considerable al resultado, esto porque al ser una linea recta deja campo libre donde no esta siendo ocupado y que esta siendo ignorado para la operacion.
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/d8c469f3-4126-486a-b06a-100185a82df2)
+En esta imagen se puede apreciar el campo que se pierde al usar una linea recta entre los dos puntos. Puede verse similar a otros metodos.
 
 # Algoritmo
 
@@ -42,10 +47,20 @@ public class interlineal{
     }
 
 
-
-
-
-
 }
 
 ```
+
+# Ejemplos del funcionamiento del codigo
+
+## Ejemplo 1:
+-  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/706dd050-b240-44d8-b7fa-4d4bb1f58473)
+    En esta tabla tenemos los datos de horas del dia _(X)_ y respecto a la hora del dia tenemos su temperatura que se tiene en esa hora _((f(x))_. Se quiere conocer que temperatura haria a las 9 a.m. Por lo tanto con ayuda de los puntos conocidos se va a tratar de encontrar la temperatura.
+
+## Ejemplo 2:
+
+## Ejemplo 3:
+
+## Ejemplo 4:
+
+## Ejemplo 5:
