@@ -13,7 +13,11 @@ En esta imagen se puede apreciar el campo que se pierde al usar una linea recta 
 
 **Para calcular la interpolacion Lineal**
 
-![image](https://github.com/CristianCHsx/Metodos_Numericos/assets/162630564/26573f1e-89b2-483b-af14-2614c7091b6c)
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/cdab2527-500e-45b4-bd97-468ca32c184f)
+
+Se necesitan los valores de y0, y1,x1,x0. En muchos otros casos y0 es lo mismo a f(x0) no importa la forma en la que se indique es cuestion de preferencias. Estos valores son lo que tenemos como conocidos dentro del conjunto de datos, siendo x0 el valor anterior a x y x1 el valor posterior de valor de x. Por otro lado el valor de y0 es el valor anterior que se quiere encontrar y y1 el valor posterior al que se quiere encontrar.
+
+
 
 Resulta ser un metodo facil de aplicar y más aun si se conoce de buena manera la teoria de la interpolacion, ya que no resullta complicado de resolver gracias a la formula con la que se trabaja.
 
