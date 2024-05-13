@@ -113,9 +113,9 @@ public class EliminacionGaussiana {
 
 # Ejemplos del funcionamiento del programa
 ## Ejercicio 1:
-**Sistema de ecuaciones:**
-
-![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/1c8a2b0b-89fe-4bb7-9065-f7782b0ab426)
+**Sistema de ecuaciones:**   
+    
+- ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/1c8a2b0b-89fe-4bb7-9065-f7782b0ab426)
 
 Salida del programa:
 
