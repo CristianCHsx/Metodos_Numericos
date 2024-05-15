@@ -83,7 +83,19 @@ public class interlineal{
     
     En esta tabla tenemos los datos de horas del dia _(X)_ y respecto a la hora del dia tenemos su temperatura que se tiene en esa hora _((f(x))_. Se quiere conocer que temperatura haria a las 9 a.m. Por lo tanto con ayuda de los puntos conocidos se va a tratar de encontrar la temperatura.
 
+    -Resultado en java:
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/9173ee3b-020d-4496-84f1-3381b20ab925)
+
 ## Ejemplo 2:
+- ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/ea5d23cb-d428-4a1e-be42-d15c313e75e8)
+
+    En esta tabla se muetran los valores que tienen un logaritmo natural evaluado en x, pero se quiere saber que valor tendria que el valor de x fuera 2
+
+    - Resultado en java:
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/0cb37b15-5557-4e3b-963b-fea796cf0ab6)
+
 
 ## Ejemplo 3:
 

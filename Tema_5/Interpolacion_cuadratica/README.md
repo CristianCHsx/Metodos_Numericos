@@ -39,3 +39,62 @@ En este algortimo, se hace respecto a la imagen obtenida del libro de Chapra, en
 En el algoritmo se representa la manera en la cual se iran trabajando las operaciones de b0,b1 y b2 que son parte de una funcion, el cual recibe dos parametros de tipo lista o float (en el caso de que no se manejen listas) donde contengan los valores de x y f(x) conocidos tambien como x0,f(x0)...x2 y f(x2).
 
 De esta manera se realizaran las operaciones correspondientes para asi obtener el resultado de f(x) que en este caso es llamado f2.
+
+# Codigo en Java
+```java
+import java.util.Scanner;
+
+public class Intercuadra {
+
+    public static float cuad(float x0,float fx0,float x1,float fx1,float x2,float fx2,float x){
+        float b0,b1,b2,f2;
+        b0=fx0;
+        b1=(fx1-fx0)/(x1-x0);
+        b2=(((fx2-fx1)/(x2-x1))-((fx1-fx0)/(x1-x0)))/(x2-x0);
+        f2=b0+b1*(x-x0)+b2*(x-x0)*(x-x1);
+        return f2;
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        float x0=0,fx0=0,x1=0,fx1=0,x2=0,fx2=0,x=0;
+        System.out.println("Ingresa el valor para x0: ");
+        x0 = sc.nextFloat();
+        System.out.println("Ingresa el valor para fx0: ");
+        fx0 = sc.nextFloat();
+        System.out.println("Ingresa el valor para x1: ");
+        x1 = sc.nextFloat();
+        System.out.println("Ingresa el valor para fx1: ");
+        fx1 = sc.nextFloat();
+        System.out.println("Ingresa el valor para x2: ");
+        x2 = sc.nextFloat();
+        System.out.println("Ingresa el valor para fx2: ");
+        fx2 = sc.nextFloat();
+        System.out.println("Ingresa el valor de x para calcular f(x): ");
+        x = sc.nextFloat();
+        
+        System.out.println("El valor de f(x) es: "+cuad(x0,fx0,x1,fx1,x2,fx2,x) );
+    }
+}
+
+```
+
+# Comprobacion del funcionamiento del codigo
+
+## Ejercicio 1:
+-  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/706dd050-b240-44d8-b7fa-4d4bb1f58473)
+    
+    En esta tabla tenemos los datos de horas del dia _(X)_ y respecto a la hora del dia tenemos su temperatura que se tiene en esa hora _((f(x))_. Se quiere conocer que temperatura haria a las 9 a.m. Por lo tanto con ayuda de los puntos conocidos se va a tratar de encontrar la temperatura.
+
+    + Codigo:
+
+     ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/9173ee3b-020d-4496-84f1-3381b20ab925)
+
+## Ejercicio 2:   
+- ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/ea5d23cb-d428-4a1e-be42-d15c313e75e8)
+
+    En esta tabla se muetran los valores que tienen un logaritmo natural evaluado en x, pero se quiere saber que valor tendria que el valor de x fuera 2
+
+    - Resultado en java:
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/0cb37b15-5557-4e3b-963b-fea796cf0ab6)
