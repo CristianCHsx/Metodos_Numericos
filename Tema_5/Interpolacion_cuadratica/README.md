@@ -1,6 +1,6 @@
 # Interpolacion cuadratica
 
-La interpolacion cuadratica sigue el mismo objetivo que la interpolacion lineal, es cual es encontrar un punto nuevo apartir de otros ya conocidos. Tambien es conocido como la interpolacion de Newton.
+La interpolacion cuadratica sigue el mismo objetivo que la interpolacion lineal, es cual es encontrar un punto nuevo apartir de otros ya conocidos.
 
 Lo diferencia es que a comparacion del metodo anterior, en este se usa un polinomio cuadratico para encontrar el valor nuevo. En la interpolacion lineal se usaba un polinomio de primer grado lo cual hacia un poco mas sencillo y corto al momento de resolverlo.
 
@@ -24,3 +24,14 @@ De esta manera obtener el valor nuevo dentro de la interpolacion. Cabe a destarc
 De esa manera se ahorra utlizar un metodo de despeje, lo que puede ahorrar tiempo.
 
 # Algoritmo
+_def funcion(x[],fx[])_
+    _b0=fx0;_
+    _b1=(fx1-fx0)/(x1-x0);_
+    _b2=(((fx2-fx1)/(x2-x1))-((fx1-fx0)/(x1-x0)))/(x2-x0);_
+    _f2=b0+b1*(x-x0)+b2*(x-x0)*(x-x1);_
+
+En este algortimo, se hace respecto a la imagen obtenida del libro de Chapra, en el cual muestra como realizar el metodo de manera sencilla.
+
+En el algoritmo se representa la manera en la cual se iran trabajando las operaciones de b0,b1 y b2 que son parte de una funcion, el cual recibe dos parametros de tipo lista o float (en el caso de que no se manejen listas) donde contengan los valores de x y f(x) conocidos tambien como x0,f(x0)...x2 y f(x2).
+
+De esta manera se realizaran las operaciones correspondientes para asi obtener el resultado de f(x) que en este caso es llamado f2.
