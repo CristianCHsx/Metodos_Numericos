@@ -11,7 +11,7 @@ De esta forma puede resultar en un error considerable al resultado, esto porque 
 
 En esta imagen se puede apreciar el campo que se pierde al usar una linea recta entre los dos puntos. Puede verse similar a otros metodos. La parabola formada es la comparacion con otros metodos con el modo lineal.
 
-**Para calcular la interpolacion Lineal**
+## **Para calcular la interpolacion Lineal**
 
 ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/cdab2527-500e-45b4-bd97-468ca32c184f)
 
