@@ -24,15 +24,15 @@ De esta manera obtener el valor nuevo dentro de la interpolacion. Cabe a destarc
 De esa manera se ahorra utlizar un metodo de despeje, lo que puede ahorrar tiempo.
 
 # Algoritmo
-_def funcion(x[],fx[])_
+    def funcion(x[],fx[])
 
-    _b0=fx0;_
+        b0=fx0
 
-    _b1=(fx1-fx0)/(x1-x0);_
+        b1=(fx1-fx0)/(x1-x0)
 
-    _b2=(((fx2-fx1)/(x2-x1))-((fx1-fx0)/(x1-x0)))/(x2-x0);_
+        b2=(((fx2-fx1)/(x2-x1))-((fx1-fx0)/(x1-x0)))/(x2-x0)
 
-    _f2=b0+b1*(x-x0)+b2*(x-x0)*(x-x1);_
+        f2=b0+b1*(x-x0)+b2*(x-x0)*(x-x1)
 
 En este algortimo, se hace respecto a la imagen obtenida del libro de Chapra, en el cual muestra como realizar el metodo de manera sencilla.
 
