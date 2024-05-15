@@ -25,9 +25,13 @@ De esa manera se ahorra utlizar un metodo de despeje, lo que puede ahorrar tiemp
 
 # Algoritmo
 _def funcion(x[],fx[])_
+
     _b0=fx0;_
+
     _b1=(fx1-fx0)/(x1-x0);_
+
     _b2=(((fx2-fx1)/(x2-x1))-((fx1-fx0)/(x1-x0)))/(x2-x0);_
+
     _f2=b0+b1*(x-x0)+b2*(x-x0)*(x-x1);_
 
 En este algortimo, se hace respecto a la imagen obtenida del libro de Chapra, en el cual muestra como realizar el metodo de manera sencilla.
