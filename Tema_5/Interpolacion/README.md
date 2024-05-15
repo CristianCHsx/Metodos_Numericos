@@ -85,7 +85,7 @@ public class interlineal{
 
     -Resultado en java:
 
-    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/9173ee3b-020d-4496-84f1-3381b20ab925)
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b441144c-ec47-4694-b7f6-2e46fd9bb05b)
 
 ## Ejemplo 2:
 - ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/ea5d23cb-d428-4a1e-be42-d15c313e75e8)
@@ -94,7 +94,7 @@ public class interlineal{
 
     - Resultado en java:
 
-    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/0cb37b15-5557-4e3b-963b-fea796cf0ab6)
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/0a85a6be-ef57-476d-ae7d-c1d3ab399d35)
 
 
 ## Ejemplo 3:
