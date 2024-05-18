@@ -22,5 +22,5 @@ utilizados para resolver las problematicas
   - [Método de Simpson 3/8](Tema_4/Método_de_Simpson_3_Octavos/)
 
 + Tema 5 _Interpolacion y ajuste de funciones_
-  - [Interpolacion lineal](Tema_5/Interpolacion_lineal/)
+  - [Interpolacion lineal](Tema_5/Interpolacion/)
   - [Interpolacion cuadratica](Tema_5/Interpolacion_cuadratica/)
