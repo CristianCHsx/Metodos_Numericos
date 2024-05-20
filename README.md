@@ -11,7 +11,7 @@ utilizados para resolver las problematicas
   - [Método de la secante](Tema_2/Método_de_la_secante/)
 
 + Tema 3 _Métodos de solucion de sistemas de ecuaciones_
-  - [Método de Gauss Jordan](Tema_3/Método_de_Gauss-Jordan/)
+  - [Método de Gauss Jordan](Tema_3/Método_de_Gauss-Jordan/Código%20en%20Java/)
   - [Método de Eliminacion Gaussiana](Tema_3/Método_de_Eliminacion_Gaussiana/)
   - [Método de Jacobi](Tema_3/Método_de_Jacobi/)
   - [Método de Gauss-Seidel](Tema_3/Metodo_de_Gauss-Seidel/)
