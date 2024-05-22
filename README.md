@@ -24,3 +24,8 @@ utilizados para resolver las problematicas
 + Tema 5 _Interpolacion y ajuste de funciones_
   - [Interpolacion lineal](Tema_5/Interpolacion/)
   - [Interpolacion cuadratica](Tema_5/Interpolacion_cuadratica/)
+
++ Tema 6 _Solución de ecuaciones diferenciales_
+  - [Euler]()
+  - [Runge-Kutta]()
+  - [Taylor]() 
