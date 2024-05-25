@@ -26,6 +26,6 @@ utilizados para resolver las problematicas
   - [Interpolacion cuadratica](Tema_5/Interpolacion_cuadratica/)
 
 + Tema 6 _Solución de ecuaciones diferenciales_
-  - [Euler]()
+  - [Euler](Tema_6/Euler/)
   - [Runge-Kutta]()
   - [Taylor]() 
