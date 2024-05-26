@@ -92,23 +92,39 @@ public class Me_Euler{
 
  ## Ejercicio 1:
   + Ecuacion: 
+  
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/6b3cd036-8b37-43dc-8498-d4cf94c182cd)
 
   + Resultado dado por el programa:
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f911effb-a393-4b5e-b838-5bfadd31e1e3)
 
  ## Ejercicio 2:
    + Ecuacion: 
 
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b8ac92d6-22c3-472b-a692-9c6347560d2e)
+
   + Resultado dado por el programa:
+  
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/cba4b74e-38e6-44e7-adf4-ed6d2cbcb58f)
 
  ## Ejercicio 3:
   + Ecuacion: 
 
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/37d33202-a758-4108-bdaf-fb8f034357e8)
+
   + Resultado dado por el programa:
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/7d128ade-caf7-42e5-a663-e7f1fc0421fe)
 
  ## Ejercicio 4:
   + Ecuacion: 
 
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/538060d8-d7b9-4c23-aff4-faddc8ab21ef)
+
   + Resultado dado por el programa:
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f8539335-ccaf-4e98-a7dc-1183a80d55fd)
 
  ## Ejercicio 5:
   + Ecuacion:

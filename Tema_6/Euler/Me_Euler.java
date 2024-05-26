@@ -6,7 +6,7 @@ import java.text.DecimalFormat;
 public class Me_Euler{
 
     public static double edo(double x, double y){
-        return (Math.pow(x, 2)-1)/Math.pow(y, 2);
+        return 2*x;
     }
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
@@ -27,13 +27,12 @@ public class Me_Euler{
         h=(xf-x0)/n;
 
         do{
-            System.out.println(x);
             yn=y0+(h*edo(x0, y0));
             x0+=h;
             y0=yn;
             x+=1;
         }while(x!=n);
 
-        System.out.println("En la iteracion "+x+"--"+de.format(x0)+"[El resultado es: "+ de.format(yn));
+        System.out.println("\nEn la iteracion "+x+"--"+de.format(x0)+"[El resultado es: "+ de.format(yn));
     }
 }
