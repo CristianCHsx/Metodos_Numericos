@@ -129,4 +129,8 @@ public class Me_Euler{
  ## Ejercicio 5:
   + Ecuacion:
 
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/a2ec09ee-a77d-446e-af52-16847eccc8cb)
+
   + Resultado dado por el programa:
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/bfec035f-078d-4739-937e-86db96a3e8f4)
