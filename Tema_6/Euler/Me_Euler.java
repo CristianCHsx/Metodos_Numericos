@@ -6,7 +6,7 @@ import java.text.DecimalFormat;
 public class Me_Euler{
 
     public static double edo(double x, double y){
-        return 2*x*y;
+        return 2*x;
     }
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
