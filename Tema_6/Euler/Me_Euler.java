@@ -15,13 +15,13 @@ public class Me_Euler{
         
         double x0=0,y0=0,xf=0,h=0,yn,x=0,n=0;
 
-        System.out.println("Ingresa el valor de x inferior: ");
+        System.out.print("Ingresa el valor de x inferior: ");
         x0 = sc.nextDouble();
-        System.out.println("Ingresa el valor de y: ");
+        System.out.print("Ingresa el valor de y: ");
         y0 = sc.nextDouble();
-        System.out.println("Ingresa el valor de x final: ");
+        System.out.print("Ingresa el valor de x final: ");
         xf = sc.nextDouble();
-        System.out.println("Ingresa la cantidad de pasos: ");
+        System.out.print("Ingresa la cantidad de pasos: ");
         n = sc.nextDouble();
 
         h=(xf-x0)/n;
