@@ -1,9 +1,11 @@
 # Metodo de Euler
 
 El metodo de Euler o tambien conocido como el metodo de Euler-Cauchy o de punto pendiente.
-Es una tecnica, que tiene como objetivo aproximar la solucion de una ecuacion diferencial ordinaria. Esto se puede ya que usualmente en un problema de este calibre, se encuentran los datos necesarios para poder encontrar una respuesta acercada.
+Es una tecnica, que tiene como objetivo aproximar la solucion de una ecuacion diferencial ordinaria. Esto se puede ya que usualmente en un problema de este calibre, se encuentran los datos necesarios para encontrar una respuesta acercada.
 
-Como lo son la ecuacion dada (lineal) y sus condiciones iniciales ademas de una condicion extra (que servira como un rango), con estos datos es posible encontrar una solucion aproximada. El proceso que tiene el método es encontrar nuevos valores de _y_, para conocer mas puntos nuevos a traves de puntos previamente conocidos. Esto se hace de forma iterativa, dependiendo de la cantidad de pasos (_ch o h_) que se hayan elegido. Para encontrar los nuevos valores de _y_ se utiliza una formula, la cual es la que le da el nombre a este metodo.
+Estos datos, son la ecuacion dada del ejercicio (lineal) y sus condiciones iniciales ademas de una condicion extra (que servira como un rango), con estos datos es posible encontrar una solucion aproximada. El proceso que tiene el método es encontrar nuevos valores de _y_, para conocer mas puntos nuevos a traves de puntos previamente conocidos (extrapolacion).
+
+ Esto se hace de forma iterativa, dependiendo de la cantidad de pasos (_ch o h_) que se hayan elegido. Para encontrar los nuevos valores de _y_ se utiliza una formula, la cual es la que le da el nombre a este metodo.
 
 La formula que se utiliza es la siguiente:
 
