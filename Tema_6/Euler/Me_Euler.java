@@ -34,6 +34,6 @@ public class Me_Euler{
             x+=1;
         }while(x!=n);
 
-        System.out.println("En la iteracion "+x+"--"+de.format(x0)+" "+ de.format(yn));
+        System.out.println("En la iteracion "+x+"--"+de.format(x0)+"[El resultado es: "+ de.format(yn));
     }
 }
