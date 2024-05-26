@@ -5,6 +5,8 @@ Es una tecnica, que tiene como objetivo aproximar la solucion de una ecuacion di
 
 Estos datos, son la ecuacion dada del ejercicio (lineal) y sus condiciones iniciales ademas de una condicion extra (que servira como un rango), con estos datos es posible encontrar una solucion aproximada. El proceso que tiene el método es encontrar nuevos valores de _y_, en donde se eligen _x inicial (xi ó y0)_ y _y inicial (yi ó y0)_ que son puntos que pertenecen a la funcion original y con estos poder calcular un nuevo valor de _y_ nueva (extrapolacion).
 
+## Proceso/formula
+
 Esto se hace de forma iterativa, dependiendo de la cantidad de pasos (_ch o h_) que se hayan elegido. Para encontrar los nuevos valores de _y_ se utiliza una formula, la cual es la que le da el nombre a este metodo.
 
 La formula que se utiliza es la siguiente:
