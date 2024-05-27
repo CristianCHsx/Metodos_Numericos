@@ -105,7 +105,7 @@ public class Rk4 {
  ## Ejemplo 4:
  - **Ecuacion**
 
-   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/31bb9ada-4f3e-40c8-975f-0f696ce40820)
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f2d7716f-73f6-4b7f-b0a3-b796dded62e2)
 
  - **Resultado dado por el programa:**
 
