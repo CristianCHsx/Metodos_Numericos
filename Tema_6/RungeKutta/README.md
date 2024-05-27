@@ -88,12 +88,16 @@ public class Rk4 {
 
  - **Resultado dado por el programa:**
 
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/01e98b9d-06ec-4bd1-bdb9-287b9b1947e2)
+
  ## Ejemplo 2:
  - **Ecuacion**
 
    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b8ac92d6-22c3-472b-a692-9c6347560d2e)
 
  - **Resultado dado por el programa:**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/618bfe94-56fb-4408-b591-6b4919fc9e70)
 
  ## Ejemplo 3:
  - **Ecuacion**
@@ -102,6 +106,8 @@ public class Rk4 {
 
  - **Resultado dado por el programa:**
 
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/13bd6631-0e20-4db9-bb1f-45641a2be85a)
+
  ## Ejemplo 4:
  - **Ecuacion**
 
@@ -109,9 +115,13 @@ public class Rk4 {
 
  - **Resultado dado por el programa:**
 
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/7f87bc1b-2f46-4d02-86fe-14a1c101413c)
+
  ## Ejemplo 5:
  - **Ecuacion**
 
    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/a2ec09ee-a77d-446e-af52-16847eccc8cb)
 
  - **Resultado dado por el programa:**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/04720f17-6154-4529-a7e3-e613ac4b0010)
