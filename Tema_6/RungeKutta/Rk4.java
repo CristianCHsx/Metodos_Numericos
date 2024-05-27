@@ -5,7 +5,7 @@ import java.text.DecimalFormat;
 public class Rk4 {
 
     public static double edo(double x, double y){
-        return 2*x*y;
+        return 4*Math.exp(0.8*x)-0.5*y;
     }
     public static void main (String[]args){
         Scanner sc = new Scanner(System.in);

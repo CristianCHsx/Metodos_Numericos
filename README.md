@@ -27,5 +27,5 @@ utilizados para resolver las problematicas
 
 + Tema 6 _Solución de ecuaciones diferenciales_
   - [Euler](Tema_6/Euler/)
-  - [Runge-Kutta](Tema_6/RungeKutta/)
+  - [Runge-Kutta 4to orden](Tema_6/RungeKutta/)
   - [Taylor]() 
