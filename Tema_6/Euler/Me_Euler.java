@@ -8,6 +8,7 @@ public class Me_Euler{
     public static double edo(double x, double y){
         return 0.4*x*y;
     }
+
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         DecimalFormat de = new DecimalFormat("#.00000");
