@@ -1,8 +1,12 @@
 # METODOS NUMERICOS
 
 Bienvenidos, en este repositorio encontraran una compilacion de los trabajos realizados a partir de lo enseñado en la asignatura de Métodos Numericos.
-Aqui se encontrará organizado por temas que se ven cada cierto periodo, a dentro de cada tema se encontraran los diferentes programas que fueron 
-utilizados para resolver las problematicas
+
+Los Métodos Numericos son tecnicas las cuales tienen como objetivo encontrar una solucion aproximada a distintos problemas del area de las Matematicas. Como lo pueden ser Calculo Diferencial, Integral o Ecuaciones Diferenciales.
+
+Estos métodos son utilizados cuando un problema suele ser demasiado complicado de resolver de manera analitica o en casos donde se requiera utilizar dentro de un sistema computacional donde calculos como lo puede ser una integral, que no son faciles de elaborar por si solos, es por eso que se recurren a estos metodos. Ya que pueden aproximar una solucion a estos problemas con opereaciones aritmeticas simples.
+
+Este repositorio se encontrará organizado por temas que se ven cada cierto periodo, dentro de cada tema se encontraran los diferentes métodos y programas que fueron utilizados para resolver las problematicas en cada tema.
 
 + Tema 2 _Métodos de solucion de ecuaciones_
   - [Método de Biseccion](Tema_2/Metodo_de_Biseccion)
@@ -28,5 +32,4 @@ utilizados para resolver las problematicas
 + Tema 6 _Solución de ecuaciones diferenciales_
   - [Euler](Tema_6/Euler/)
   - [Heun](Tema_6/Heun/)
-  - [Punto_medio]()
   - [Runge-Kutta 4to orden](Tema_6/RungeKutta/)
