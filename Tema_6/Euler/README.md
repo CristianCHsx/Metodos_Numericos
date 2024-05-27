@@ -120,7 +120,7 @@ public class Me_Euler{
  ## Ejercicio 4:
   + Ecuacion: 
 
-  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/538060d8-d7b9-4c23-aff4-faddc8ab21ef)
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/31bb9ada-4f3e-40c8-975f-0f696ce40820)
 
   + Resultado dado por el programa:
 
