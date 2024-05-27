@@ -1,9 +1,9 @@
 # Metodo de Euler
 
-El metodo de Euler o tambien conocido como el metodo de Euler-Cauchy o de punto pendiente.
+El metodo de Euler o tambien conocido como el metodo de Euler-Cauchy o de punto pendiente. Pertenece a los metodos de Runge-Kutta y es considerado de primer orden.
 Es una tecnica, que tiene como objetivo aproximar la solucion de una ecuacion diferencial ordinaria. Se suele utilizar cuando una ecuacion suele ser complicada de resolver de manera analitica, resultando en la opcion de recurrir a esta tecnica. Este metodo es posible ya que usualmente en un problema de este calibre, se encuentran los datos necesarios para encontrar una respuesta acercada.
 
-Estos datos son: la ecuacion dada del ejercicio (lineal) y sus condiciones iniciales ademas de una condicion extra (que servira como un especie de rango), con estos datos es posible encontrar una solucion aproximada. El proceso que tiene el método es encontrar nuevos valores de _y_, en donde se eligen **_x inicial (xi ó x0)_** y **_y inicial (yi ó y0)_** que son puntos que pertenecen a la funcion original y con estos poder calcular un nuevo valor de _y_ (extrapolacion).
+Estos datos son: la ecuacion dada del ejercicio (lineal) y sus condiciones iniciales ademas de una condicion extra (que servira como un especie de rango), con estos datos es posible encontrar una solucion aproximada. El proceso que tiene el método es encontrar nuevos valores de _y_ utilizando la pendiente, en donde se eligen **_x inicial (xi ó x0)_** y **_y inicial (yi ó y0)_** que son puntos que pertenecen a la funcion original y con estos poder calcular un nuevo valor de _y_ (extrapolacion).
 
 ## Proceso/formula
 
