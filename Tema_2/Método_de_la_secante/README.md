@@ -72,8 +72,6 @@ public class MetodoDeLaSecante {
 
 ```
 
-## Ejemplo del funcionamiento
-
 # Ejemplos del funcionamiento del codigo
 
 ## Ejercicio 1:

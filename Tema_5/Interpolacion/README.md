@@ -96,9 +96,3 @@ public class interlineal{
 
     ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/0a85a6be-ef57-476d-ae7d-c1d3ab399d35)
 
-
-## Ejemplo 3:
-
-## Ejemplo 4:
-
-## Ejemplo 5:
