@@ -18,7 +18,17 @@ En esta se evaluan la ecuacion con los valores de _xi_ y _yi_ (x0, y0) siendo su
 
 # Algortimo
 
-![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/c8b012ee-a9c1-4b55-ba51-3b8403b97d3a)
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/c8b012ee-a9c1-4b55-ba51-3b8403b97d3a)(Chapra, 2006)
+
+En la imagen anterior se muestra un seudocodigo del método de Heun.
+
+En el se puede observar que "CALL Derivs" indica el llamado de un metodo que calcula los valores de x, y en la ecuacion indicada de dy1dx.
+
+Para despues en la variable ye guardar el resultado de la formula de Euler.
+
+De la misma manera vuelve a llamar al metodo para calcular la ecuacion pero ahora con los valores de x+h, ye (obtenido en el paso anterior).
+
+Posteriormente guarda en la variable Slope el resultado del promedio de estas dos pendientes, seguidamente en la variable ynew asigna el valor de la formula de Heun.
 
 # Codigo en Java
 
@@ -72,3 +82,48 @@ public class Heun {
 ```
 
 # Pruebas del funcionamiento del codigo
+
+ ## Ejemplo 1:
+ - Ecuacion:
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/6b3cd036-8b37-43dc-8498-d4cf94c182cd)
+
+ - Resultado mediante el programa:
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/22fbd8e9-62b8-4cf4-b975-a4e5f872bf33)
+
+ ## Ejemplo 2:
+ - Ecuacion:
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b8ac92d6-22c3-472b-a692-9c6347560d2e)
+
+ - Resultado mediante el programa:
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/6eea3315-b5af-4003-9c1a-cfd676048cf4)
+
+ ## Ejemplo 3:
+ - Ecuacion:
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/37d33202-a758-4108-bdaf-fb8f034357e8)
+
+ - Resultado mediante el programa:
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/5ead1396-0889-4ada-bff0-c9aab57abf67)
+
+ ## Ejemplo 4:
+ - Ecuacion:
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f2d7716f-73f6-4b7f-b0a3-b796dded62e2)
+
+ - Resultado mediante el programa:
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/66a78fb7-cdfe-4d0b-a65e-25c79f34ecbb)
+
+ ## Ejemplo 5:
+ - Ecuacion:
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/a2ec09ee-a77d-446e-af52-16847eccc8cb)
+
+ - Resultado mediante el programa:
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/11435dcf-941d-431e-abf0-989c8b65469c)

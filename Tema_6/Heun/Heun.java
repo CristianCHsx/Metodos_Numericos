@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Heun {
     
     public static double edo(double x, double y){
-        return 2*x*y;
+        return 0.4*x*y;
     }
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
@@ -28,11 +28,11 @@ public class Heun {
 
         do{
             yn=y0+(h*edo(x0, y0));
-            System.out.println("yn"+yn);
+            System.out.println("yn "+yn);
             xL+=h;
-            System.out.println("xL:"+xL);
+            System.out.println("xi+1: "+xL);
             ynL=y0+((h/2)*(edo(x0, y0)+edo(xL, yn)));
-            System.out.println("ynl: "+ ynL);
+            System.out.println("yn+1* : "+ ynL);
             x0=xL;
             y0=ynL;
             x+=1;
