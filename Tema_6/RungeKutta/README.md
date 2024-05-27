@@ -1,6 +1,6 @@
 # Metodo Runge-Kutta de 4to orden
 
-Pertence a una familia de metodos de Runge-Kutta (RK), los cuales llegan a realizar el mismo procedimiento de la series de Taylor pero sin calcular derivadas de orden superior (Chapra, 2006).
+Pertence a una familia de metodos de Runge-Kutta (RK), los cuales llegan a realizar el mismo procedimiento de la series de Taylor pero sin calcular derivadas de orden superior (Chapra, 2006). Sustituyendo de esta manera a las series de Taylor.
 
 Como se mencionó proviene de una familia de metodos, los cuales se clasifican respecto a su orden (primer orden, segundo orden, tercer orden y cuarto orden). En cada clasificacion se encuentran diferentes tecnicas para resolver ecucaiones diferenciales ordinarias, por ejemplo dentro del primer orden se encuentra el metodo de Euler que ya se ha expuesto aqui.
 
